@@ -15,7 +15,7 @@ fi
 
 echo "------BTSERVER------"
 
-echo "Killing BTSERVER"
+#echo "Killing BTSERVER"
 
 #killall startbtserver.sh
 #kill -9 $(ps aux | grep BTServer | grep -v grep | awk '{print $2}')
